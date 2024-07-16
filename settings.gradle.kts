@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kotlinUi"
+rootProject.name = "kotlinUI"
 include(":app")
  
